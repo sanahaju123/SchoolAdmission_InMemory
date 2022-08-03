@@ -12,7 +12,6 @@ using System.Threading.Tasks;
 
 namespace SchoolAdmission.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class SchoolAdmissionController : ControllerBase
     {
