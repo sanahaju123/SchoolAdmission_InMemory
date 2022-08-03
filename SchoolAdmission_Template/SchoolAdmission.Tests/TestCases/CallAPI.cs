@@ -8,15 +8,6 @@ using static SchoolAdmission.Tests.TestCases.TestCaseDto;
 
 namespace SchoolAdmission.Tests.TestCases
 {
-    using Newtonsoft.Json;
-    using System;
-    using System.Collections.Generic;
-    using System.Net.Http;
-    using System.Text;
-    using System.Threading.Tasks;
-
-    namespace GroceriesManagement.Tests.TestCases
-    {
         public class CallAPI
         {
             public static string UniqueGuid = "18f69543-da90-412c-8a01-4825f31340bb";
